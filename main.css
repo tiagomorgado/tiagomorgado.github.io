@@ -1,0 +1,91 @@
+body {
+  background:  url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/11/Acoustic-Guitar-Dark-Background-Wallpapers.jpg) no-repeat center fixed;
+  max-width: 100%;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  background-size:cover;
+}
+
+h1 {
+  font-family:'Sansita', sans-serif;
+  font-size: 55px;
+  color: #F8FFF9;
+  text-align: center;
+  margin: 25px auto;
+}
+
+img {
+  margin: auto;
+  background-position: center center;
+  border: 3px solid #707370;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+hr.style {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+#intro {
+  color: #F8FFF9;
+  font-family:'Open Sans Condensed', sans-serif;
+}
+
+.container-fluid {
+  max-width: 70%;
+    margin: auto;
+}
+
+#critic {
+  font-size: 25px;
+  font-family:'Open Sans Condensed', sans-serif;
+}
+
+.grey {
+  background: #707370;
+}
+
+p.big {
+    line-height: 3;
+}
+
+albums {
+  font-size: 2px;
+}
+
+p {
+padding-bottom: 18px;
+color: white;
+}
+
+.list-font li{
+  font-size:20px;
+  color:white;
+}
+
+h3 {
+  font-family:'Open Sans Condensed', sans-serif;
+  color:white;
+}
+
+footer {
+  font-size: 10px;
+}
+
+.container-fluid {
+  width: 100%;
+}
+
+h5 {
+  color:white;
+}
+
+footer {
+  color:white
+}
